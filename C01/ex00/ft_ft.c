@@ -17,7 +17,7 @@ void	ft_ft(int *nbr) //int *nbr pointsthe integer to 'nbr', which is 42
 	*nbr = 42;
 }
 
-/*int	main(void)
+int	main(void)
 {
 	int	a;
 	int	*ptr;
@@ -27,4 +27,4 @@ void	ft_ft(int *nbr) //int *nbr pointsthe integer to 'nbr', which is 42
 	printf("%d", a); //prints the value of 'a'
 			 //the %d format specifier is specifically used for formatting and printing integer values in printf statements.
 }
-*/
+
