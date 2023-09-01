@@ -14,7 +14,7 @@
 #include <stdio.h> //incolude the stdio.h header for input and output functions
 
 int	ft_strlen(char *str) //define ft_strlen to calculate the length of a string
-//function definition for a 'ft_strlen'. it takes 'str' as an argument, which is a pointer to the beginning of a string
+//function definition for 'ft_strlen'. it takes 'str' as an argument, which is a pointer to the beginning of a string
 {
 	int	len; //declare integer variable named 'len' to store the length of the string
 
